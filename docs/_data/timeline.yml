@@ -4,29 +4,48 @@
   location: Chicago IL USA
   description: Master in Finance(MiF) at Booth School of Business.
 
-- title: Research Assistant, Stanford University, Stanford Cohen Lab
+- title: Research Assistant, Stanford University
   from: Apr. 2024
   to: Jul. 2024
   location: Remote
-  description: 
+  description: Remote RA at Stanford Cohen Lab. Textual data collection, verification, management and analysis. 
+               Feature Extraction and Pattern Recognition for time-series prediction.
 
 - title: Summer Associate, JPMorgan Chase & Co.
   from: Jun. 2023
   to: Dec. 2023
   location: Beijing & Shanghai China
-  description: 
+  description: Summer internship; Systematic trading on option portfolios. 
+               Advanced trading strategies boosted by deep learning (e.g., CNN-GRU) and GAN.
+               Return offer extended.
+               Participated in 2022 Quantitative Research Early Mentorship Program. 
 
 - title: FRC Quant Intern, UBS
   from: Feb. 2022
   to: Jun. 2023
   location: Shanghai China
-  description: 
+  description: Off-cycle Internship; Conceptualized valuation strategies and developed mathematical models, 
+               in close collabration with HK and London trading desks. 
+               Worked with big data to monitor trading activities.
 
 - title: Student, Shanghai Jiao Tong University, FinTech
   from: Sept. 2022
   to: Jun. 2024
   location: Shanghai China
-  description: Master of Finance(MFin) at [Shanghai Advanced Institute of Finance(SAIF)](https://en.saif.sjtu.edu.cn/).
+  description: "- Master of Finance(MFin) at [Shanghai Advanced Institute of Finance(SAIF)](https://en.saif.sjtu.edu.cn/).
+
+                - Student Ambassador.
+
+                - Courses include Database and Applications, Machine Learning Series Course(Mathematical Foundations, ML I & ML II), Financial Mathematics, 
+                Derivative Securities, Block Chain, among others.
+
+                - Dean's Honor List; Outstanding Graduate; Active Contribution Awards (for exceptional social service).
+  
+                ![Graduate_from_SAIF](https://github.com/MuchenHu/muchenhu.github.io/blob/master/docs/IMG_0703.JPG?raw=true)
+
+                ![Graduate_from_SAIF](https://github.com/MuchenHu/muchenhu.github.io/blob/master/docs/IMG_9751.JPG?raw=true)
+                
+                ![Graduate_from_SAIF](https://github.com/MuchenHu/muchenhu.github.io/blob/master/docs/IMG_0706.JPG?raw=true)"
 
 - title: Alpha Quant Intern, Lingjun Investment
   from: Jul. 2022
@@ -43,12 +62,12 @@
   
                - Dual Degree.
 
-               - Vice President of Student Union of NSD. 
+               - Vice President of Student Union of NSD. Outstanding Contributor Award.
 
                - Courses include Principles of Economics, Intermediate Macroeconomics, Intermediate Microeconomics, 
                Special Topics in China Economic Research, Financial Accounting, among others.
                
-               ![alt text](https://bit.ly/2TOsM7B)"
+               ![Graduate_from_PKU](https://github.com/MuchenHu/muchenhu.github.io/blob/master/docs/IMG_0701.jpg?raw=true)"
 
 - title: Student, Peking University, Electronics Engineering
   from: Sept. 2018
@@ -60,4 +79,6 @@
 
                - Courses include Advanced Calculus, Real Analysis, Linear Algebra, 
                Probability and Statistics, Stochastic Processes, Analog Signal Processing, 
-               C++ Programming, Data Structure and Algorithm, Python Programming and Data Analytics, among others."
+               C++ Programming, Data Structure and Algorithm, Python Programming and Data Analytics, among others.
+               
+               - Dean's Honor List; Changfei Scholarship; Award for Contribution in Student Organizations."
