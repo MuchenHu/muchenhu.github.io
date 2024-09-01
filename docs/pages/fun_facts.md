@@ -10,9 +10,9 @@ weight: 3
 
 - Born in the Year of the Rabbit, but only two days before the Year of the Dragon. My Chinese name "沐辰" reflects this: "沐" means basking, and "辰" represents the dragon in the Twelve Earthly Branches (十二地支). "沐辰" means basking in the light of the dragon, symbolizing hope and wisdom. My parents wish for me to be filled with hope and wisdom.
 - Have a winter birthday but love summer most.
-- Play a tranditional Chinese instrument: Guzheng; Second Price winner in national competition at the age of 10. Favorite song: *High Mountains and Flowing Water*(高山流水).
+- Play a tranditional Chinese instrument: Guzheng; Second Price winner in national competition at the age of 10. Favorite song: *High Mountains and Flowing Water*(高山流水). Listen below.
 <div class="row">
-    {% include elements/audio.html id="oF8GeZBuiO8" %}
+    {% include elements/audio.html src="https://github.com/MuchenHu/muchenhu.github.io/blob/master/docs/%E9%AB%98%E5%B1%B1%E6%B5%81%E6%B0%B4.mp3?raw=true" %}
 </div>
 - Chinese Chemistry Olympiad First Price winner in the national level, 2017.
 - Chinese Mathematics Olympiad First Price winner in the national level, 2017.
@@ -28,15 +28,15 @@ weight: 3
     {% include elements/video.html id="oF8GeZBuiO8" %}
 </div>
 - Favorite color: blue.
-- Favorite flower(s): Tulip & Iris.
-- Favorite animal(s): Cats & Dogs.
+- Favorite flower(s): Tulip :tulip: & [Iris](https://bouqs.com/blog/iris-meaning-and-symbolism/).
+- Favorite animal(s): Cats :cat2: & Dogs :dog2:.
 - Music Lover; Favorite type: Pop, R&B.
 - Dance Lover; Favorite type: Hip-Hop, Jazz.
 - Game Lover; Favorite type: those with attractive story lines.
-- Podcast Lover; Favorite: 独树不成林.
+- Podcast Lover; Favorite: 独树不成林(on Apple Podcasts & 小宇宙).
 - Love to read; Favorite type: novels. My favorite experience is reading those that deconstruct classics(解构经典), offering different perspectives on the plot and finding clues from the original works to support the alternative arguments.
 - Planner Addict: Bound Planner Lover, currently using Hobonichi. Have filled 5 Scrapbooks since 2018.
-- Blogger on WeChat Platform: gradually moving to this site...
+- Blogger on WeChat Platform: Closed, gradually moving to this site...
 - Love city life.
-- MBTI: ENTJ
-- Zodiac sign: Aquarius
+- MBTI: ENTJ-A
+- Zodiac sign: Aquarius :aquarius:
