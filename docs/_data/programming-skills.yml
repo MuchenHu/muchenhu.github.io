@@ -1,11 +1,23 @@
-- name: HTML5/CSS3
+- name: Python
   percentage: 90
   color: danger
 
-- name: Go
-  percentage: 80
-  color:
+- name: C++
+  percentage: 90
+  color: danger
 
-- name: Python
+- name: SQL
+  percentage: 80
+  color: warning
+
+- name: NoSQL
   percentage: 70
+  color: light
+
+- name: HTML5
+  percentage: 60
+  color: secondary
+
+- name: R/Stata
+  percentage: 60
   color: secondary

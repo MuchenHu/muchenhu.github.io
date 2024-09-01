@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
-
-- name: Adobe Illustrator
+- name: Project Management
   percentage: 90
   color: success
+
+- name: Adobe Photoshop
+  percentage: 70
+  color: info
+
+- name: Video Editing
+  percentage: 60
+  color: 
