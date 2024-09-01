@@ -1,54 +1,63 @@
 - title: Student, University of Chicago, Asset Management
   from: Aug. 2024
   to: Dec. 2025
-  # location: Chicago, IL, USA
+  location: Chicago IL USA
   description: Master in Finance(MiF) at Booth School of Business.
 
 - title: Research Assistant, Stanford University, Stanford Cohen Lab
   from: Apr. 2024
   to: Jul. 2024
-  # location: Remote
+  location: Remote
   description: 
 
 - title: Summer Associate, JPMorgan Chase & Co.
   from: Jun. 2023
   to: Dec. 2023
-  # location: Beijing & Shanghai, China
+  location: Beijing & Shanghai China
   description: 
 
 - title: FRC Quant Intern, UBS
   from: Feb. 2022
   to: Jun. 2023
-  # location: Shanghai, China
+  location: Shanghai China
   description: 
 
 - title: Student, Shanghai Jiao Tong University, FinTech
   from: Sept. 2022
   to: Jun. 2024
-  # location: Shanghai, China
-  description: Master in Finance(MFin) at [Shanghai Advanced Institute of Finance(SAIF)](https://en.saif.sjtu.edu.cn/).
-
+  location: Shanghai China
+  description: Master of Finance(MFin) at [Shanghai Advanced Institute of Finance(SAIF)](https://en.saif.sjtu.edu.cn/).
 
 - title: Alpha Quant Intern, Lingjun Investment
   from: Jul. 2022
   to: Jan. 2023
-  # location: Shanghai, China
+  location: Shanghai China
   description: Off-cycle internship; Alpha research on A-share fundamental (e.g., financial statements), 
                alternative(e.g., text) and high-frequency data (minute-level LOB).
 
-- title: Student, Peking University, Economics(Dual Degree)
+- title: Student, Peking University, Economics
   from: Sept. 2019
   to: Jun. 2022
-  # location: Beijing, China
-  description: Bachelor of Science in Economics(BSc) at National School of Development(NSD). Vice President of Student Union of NSD. Courses include Principles of Economics, Intermediate Macroeconomics, Intermediate Microeconomics, 
-               Special Topics in China Economic Research, Financial Accounting, among others."
+  location: Beijing China
+  description: "- Bachelor of Science in Economics(BSc) at [National School of Development(NSD)](https://en.nsd.pku.edu.cn/). 
+  
+               - Dual Degree.
+
+               - Vice President of Student Union of NSD. 
+
+               - Courses include Principles of Economics, Intermediate Macroeconomics, Intermediate Microeconomics, 
+               Special Topics in China Economic Research, Financial Accounting, among others.
+               
+               ![alt text](https://bit.ly/2TOsM7B)"
 
 - title: Student, Peking University, Electronics Engineering
   from: Sept. 2018
   to: Jun. 2022
-  # location: Beijing, China
-  description: Bachelor of Engineering in Electronics Engineering(BEng) at School of Electronics Engineering and Computer Science(EECS), 
-               specialized in IC Design and Integrated System.
-               Courses include Advanced Calculus, Real Analysis, Linear Algebra, 
+  location: Beijing China
+  description: "- Bachelor of Engineering in Electronics Engineering(BEng) at [School of Electronics Engineering and Computer Science(EECS)](https://eecs.pku.edu.cn/en/).
+
+               - Specialty of IC Design and Integrated System.
+
+               - Courses include Advanced Calculus, Real Analysis, Linear Algebra, 
                Probability and Statistics, Stochastic Processes, Analog Signal Processing, 
-               C++ Programming, Data Structure and Algorithm, Python Programming and Data Analytics, among others.
+               C++ Programming, Data Structure and Algorithm, Python Programming and Data Analytics, among others."
