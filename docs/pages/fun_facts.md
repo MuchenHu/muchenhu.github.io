@@ -7,6 +7,7 @@ weight: 3
 
 # **Fun Facts About Me** 
 
+<img src="https://github.com/MuchenHu/muchenhu.github.io/blob/master/docs/IMG_0901.png?raw=true" alt="drawing" width="200"/>
 
 - Born in the Year of the Rabbit, but only two days before the Year of the Dragon. My Chinese name "沐辰" reflects this: "沐" means basking, and "辰" represents the dragon in the Twelve Earthly Branches (十二地支). "沐辰" means basking in the light of the dragon, symbolizing hope and wisdom. My parents wish for me to be filled with hope and wisdom.
 - Have a winter birthday but love summer most.
