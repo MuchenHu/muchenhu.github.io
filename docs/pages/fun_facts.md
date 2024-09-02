@@ -37,7 +37,7 @@ weight: 3
 - Podcast Lover; Favorite: 独树不成林(on Apple Podcasts & 小宇宙).
 - Love to read; Favorite type: novels. My favorite experience is reading those that deconstruct classics(解构经典), offering different perspectives on the plot and finding clues from the original works to support the alternative arguments.
 - Planner Addict: Bound Planner Lover, currently using Hobonichi. Have filled 5 Scrapbooks since 2018.
-- Blogger on WeChat Platform: Closed, gradually moving to this site...
+- Blogger on WeChat Platform: Archived, gradually moving to this site...
 - Love city life.
 - MBTI: ENTJ-A
 - Zodiac sign: Aquarius :aquarius:

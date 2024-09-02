@@ -12,7 +12,7 @@
 
 - name: NoSQL
   percentage: 70
-  color: light
+  color: warning
 
 - name: HTML5
   percentage: 60
